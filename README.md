@@ -134,6 +134,7 @@ O repositório foi preparado para publicação com o CSV já incluído:
 ├── dashboard_renuncias_santos.html
 ├── README.md
 ├── requirements.txt
+├── index.html -> ´´precisou ser criado para visualização pelo pages``
 └── dados/
     ├── beneficiario.csv
     └── README.md
